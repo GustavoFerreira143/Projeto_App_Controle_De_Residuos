@@ -1,0 +1,4 @@
+Ao ser instalado o xampp a biblioteca é adicionada a pasta C: da maquina localizando a mesma, 
+as pastas CodigosTokens e Relatorios tem que ser inseridas,o caminho seria o seguinte C:\xampp\ <-pasta para inserir
+Relatorios e pasta CodigosTokens ja a pasta jwt_server deve ser inserida no caminho 
+C:\xampp\htdocs\<- assim ela estará em uma pasta publica onde a requisição será enviada e armazenada em Relatórios ou baixada do mesmo.
